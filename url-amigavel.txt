@@ -1,0 +1,14 @@
+url- aligavel ou mod rewrite
+
+necessario configurar o wamp
+
+
+RewriteEngine on //Ligando o RewRite
+
+RewriteCond %{REQUEST_FILENAME} !-f //ignorando arquivos
+
+RewriteCond %{REQUEST_FILENAME} !-d //ignorando diretorio
+
+RewriteRule ^(.*)$ /index.php?q=$1[L]
+
+Falta Arrumar o exemplo no netBeans

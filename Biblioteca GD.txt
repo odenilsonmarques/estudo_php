@@ -1,0 +1,2 @@
+essa biblioteca trabalha com a manipulacao de imagens em 
+uma diversidade de formato 

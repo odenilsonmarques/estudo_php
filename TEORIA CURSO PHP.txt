@@ -1,0 +1,35 @@
+require -> se tiver algum erro para todo a aplicacao
+
+include -> roda a aplicacao, mas caso tiver algum erro vai informar que alguma coisa ta errada, mas continua o restante da aplicação
+
+require_once ->permite que apenas um entre varios arquivos iguas seja chamado
+
+../ ( dois pontos e uma barra volta uma pasta)
+
+./ ( um ponto e uma barra não volta)
+
+
+tipo de validacao 
+filter_validate_email...
+
+caso queira limpar o campo e deixar somente o conteúo que foi inserido no input
+filter_sanitize_special_chars
+
+
+vairavel de sessao: é uma maneira de salvar os dados de um usuario em  uma variável $_SESSION que pode ser usada em qualquer lugar so sistema enquanto a sessao(navegacao)
+estiver ativa
+
+a sessao: fica salva no servidor. fica valida enquanto o usuario não sair (fechar o navegador ou fazer login)
+
+o cookie: fica salvo no navegador do usuario.
+
+na aula de cookie foi passado como:
+
+->setar um cookie ( Se deseja setar um cookie, é necessario fazer isso antes da exibição de qualquer conteúdo)
+
+->acessa o cookie
+
+->deleta o cookie
+
+
+Lendo arquivo interno e externo

@@ -1,0 +1,7 @@
+Dominio e subdominio
+
+membro.phpdozeroaoprofisional.com.br
+
+membro é o subdominio
+
+phpdozeroaoprofisional é dominio

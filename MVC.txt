@@ -1,0 +1,15 @@
+MVC
+
+M-->model
+
+V-->view
+
+C-->controller
+
+Quando o usuario faz uma requisicao, o controle é chamado, como nome fala é ele que 
+controla toda as requisicoes, geralmente logo apos o controle é chamado o modelo, pois 
+é nele que fica a lógica do negócio em si.logo depois, o controle  chama o modelo novamente, 
+logo depois o modelo chama a view, e o view mostra a requisicao do usuario.
+
+nota o index normalmente é o primeiro metodo procurado por controller
+

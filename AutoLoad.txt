@@ -1,0 +1,2 @@
+Carregamento de varias classes em um sistema ,e nao precisa incluir(include) varias arquivos em
+uma classe

@@ -1,0 +1,4 @@
+
+Namespaces possibilitam o agrupamento de classes,
+interfaces, funções e constantes, visando evitar o conflito entre seus nomes, alem disso,
+permite especificar qual versao de um terminado arquivo(bibliotec,classe)está sendo utilizado.

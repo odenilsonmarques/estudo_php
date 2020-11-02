@@ -1,0 +1,6 @@
+
+Erro fatal 
+-->tipo de erro que para toda aplicacao e nao executa mais nada
+
+Warning
+-->tipo de erro que nao para a execucao da aplicacao mais informa que há um erro

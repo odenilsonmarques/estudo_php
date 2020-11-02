@@ -1,0 +1,7 @@
+criptografia irreversível ->Padrao(MD5) de criptografia onde nao se 
+pode retornar o valor original, nem o administrador do sistema consegue saber,
+o mesmo pode até mudar, mais apenas o usuario sabe qual é a senha
+
+
+criptografia reversível ->padrao de criptogafia onde se pode retornar 
+o valor original

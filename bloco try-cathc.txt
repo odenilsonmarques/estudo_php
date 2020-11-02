@@ -1,0 +1,11 @@
+try{
+
+}catch(){
+
+}
+
+esse blobo é usado para tratar possiveis erros de execução chamados de exceções
+
+tudo que estiver dentro do try será executado até que alguma exceção seja lançada, ou seja, até que dê
+algo errado.Quando a exceção é lançada , ela sempre deve ser capturada.o trabalho de captura da exceção e 
+executado pelo bloco catch.
